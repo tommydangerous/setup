@@ -5,3 +5,5 @@ $ sudo apt-get update
 $ apt-cache policy docker-ce
 $ sudo apt-get install -y docker-ce
 $ sudo systemctl status docker
+$ sudo apt install docker-compose
+```
